@@ -1,0 +1,262 @@
+{
+    "ruawi_states": [
+        {
+            "id": 1,
+            "name": "Abia",
+            "capital": "Umuahia",
+            "abrv": "AB",
+            "polzone": "South-South"
+        },
+        {
+            "id": 2,
+            "name": "Adamawa",
+            "capital": "Yola",
+            "abrv": "AD",
+            "polzone": "South-South"
+        },
+        {
+            "id": 3,
+            "name": "Akwa Ibom",
+            "capital": "Uyo",
+            "abrv": "AK",
+            "polzone": "South-South"
+        },
+        {
+            "id": 4,
+            "name": "Anambra",
+            "capital": "Awka",
+            "abrv": "AN",
+            "polzone": "South-South"
+        },
+        {
+            "id": 5,
+            "name": "Bauchi",
+            "capital": "Bauchi",
+            "abrv": "BA",
+            "polzone": "South-South"
+        },
+        {
+            "id": 6,
+            "name": "Bayelsa",
+            "capital": "Yenagoa",
+            "abrv": "BY",
+            "polzone": "South-South"
+        },
+        {
+            "id": 7,
+            "name": "Benue",
+            "capital": "Makurdi",
+            "abrv": "BE",
+            "polzone": "South-South"
+        },
+        {
+            "id": 8,
+            "name": "Borno",
+            "capital": "Maiduguri",
+            "abrv": "BO",
+            "polzone": "South-South"
+        },
+        {
+            "id": 9,
+            "name": "Cross River",
+            "capital": "Calabar",
+            "abrv": "CR",
+            "polzone": "South-South"
+        },
+        {
+            "id": 10,
+            "name": "Delta",
+            "capital": "Asaba",
+            "abrv": "DE",
+            "polzone": "South-South"
+        },
+        {
+            "id": 11,
+            "name": "Ebonyi",
+            "capital": "Abakaliki",
+            "abrv": "EB",
+            "polzone": "South-South"
+        },
+        {
+            "id": 12,
+            "name": "Edo",
+            "capital": "Benin",
+            "abrv": "ED",
+            "polzone": "South-South"
+        },
+        {
+            "id": 13,
+            "name": "Ekiti",
+            "capital": "Ado-Ekiti",
+            "abrv": "EK",
+            "polzone": "South-South"
+        },
+        {
+            "id": 14,
+            "name": "Enugu",
+            "capital": "Enugu",
+            "abrv": "EN",
+            "polzone": "South-South"
+        },
+        {
+            "id": 15,
+            "name": "Federal Capital Territory",
+            "capital": "Abuja",
+            "abrv": "FC",
+            "polzone": "South-South"
+        },
+        {
+            "id": 16,
+            "name": "Gombe",
+            "capital": "Gombe",
+            "abrv": "GO",
+            "polzone": "South-South"
+        },
+        {
+            "id": 17,
+            "name": "Imo",
+            "capital": "Owerri",
+            "abrv": "IM",
+            "polzone": "South-South"
+        },
+        {
+            "id": 18,
+            "name": "Jigawa",
+            "capital": "Dutse",
+            "abrv": "JI",
+            "polzone": "South-South"
+        },
+        {
+            "id": 19,
+            "name": "Kaduna",
+            "capital": "Kaduna",
+            "abrv": "KD",
+            "polzone": "South-South"
+        },
+        {
+            "id": 20,
+            "name": "Kano",
+            "capital": "Kano",
+            "abrv": "KN",
+            "polzone": "South-South"
+        },
+        {
+            "id": 21,
+            "name": "Katsina",
+            "capital": "Katsina",
+            "abrv": "KT",
+            "polzone": "South-South"
+        },
+        {
+            "id": 22,
+            "name": "Kebbi",
+            "capital": "Birnin Kebbi",
+            "abrv": "KE",
+            "polzone": "South-South"
+        },
+        {
+            "id": 23,
+            "name": "Kogi",
+            "capital": "Lokoja",
+            "abrv": "KO",
+            "polzone": "South-South"
+        },
+        {
+            "id": 24,
+            "name": "Kwara",
+            "capital": "Ilorin",
+            "abrv": "KW",
+            "polzone": "South-South"
+        },
+        {
+            "id": 25,
+            "name": "Lagos",
+            "capital": "Ikeja",
+            "abrv": "LA",
+            "polzone": "South-South"
+        },
+        {
+            "id": 26,
+            "name": "Nasarawa",
+            "capital": "Lafia",
+            "abrv": "NA",
+            "polzone": "South-South"
+        },
+        {
+            "id": 27,
+            "name": "Niger",
+            "capital": "Minna",
+            "abrv": "NI",
+            "polzone": "South-South"
+        },
+        {
+            "id": 28,
+            "name": "Ogun",
+            "capital": "Abeokuta",
+            "abrv": "OG",
+            "polzone": "South-South"
+        },
+        {
+            "id": 29,
+            "name": "Ondo",
+            "capital": "Akure",
+            "abrv": "ON",
+            "polzone": "South-South"
+        },
+        {
+            "id": 30,
+            "name": "Osun",
+            "capital": "Osogbo",
+            "abrv": "OS",
+            "polzone": "South-South"
+        },
+        {
+            "id": 31,
+            "name": "Oyo",
+            "capital": "Ibadan",
+            "abrv": "OY",
+            "polzone": "South-South"
+        },
+        {
+            "id": 32,
+            "name": "Plateau",
+            "capital": "Jos",
+            "polzone": "South-South"
+        },
+        {
+            "id": 33,
+            "name": "Rivers",
+            "capital": "Port Harcourt",
+            "abrv": "RI",
+            "polzone": "South-South"
+        },
+        {
+            "id": 34,
+            "name": "Sokoto",
+            "capital": "Sokoto",
+            "abrv": "SO",
+            "polzone": "South-South"
+        },
+        {
+            "id": 35,
+            "name": "Taraba",
+            "capital": "Jalingo",
+            "abrv": "TA",
+            "polzone": "South-South"
+        },
+        {
+            "id": 36,
+            "name": "Yobe",
+            "capital": "Damaturu",
+            "abrv": "YO",
+            "polzone": "South-North"
+        },
+        {
+            "id": 37,
+            "name": "Zamfara",
+            "capital": "Gusau",
+            "abrv": "ZA",
+            "polzone": "South-west"
+        }
+    ]
+}
